@@ -56,8 +56,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Demo\Computer\" />
+    <None Remove="Demo\Login\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Demo\Computer\" />
+    <Folder Include="Demo\Login\" />
   </ItemGroup>
 </Project>
